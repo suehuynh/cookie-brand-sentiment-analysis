@@ -37,17 +37,18 @@ Findings reveal distinct brand dynamics: Crumbl generates the most media buzz bu
 - Time series plots: Sentiment score trends over time
 
 5. Results (more details with plots)
-a. Word Cloud Insights
+
+Word Cloud Insights
 - Crumbl: Strong associations with sugar and weekly flavor drops → polarizing buzz
 - Insomnia: Mentions of order, open, and Krispy Kreme → convenience-driven identity
 - Levain: Strongly tied to chocolate chip walnut cookie and NYC → premium, heritage-based branding
 
-b. Sentiment Distribution
+Sentiment Distribution
 - Crumbl: 41% positive, 36% neutral, 23% negative
 - Insomnia: 50% positive, 35% neutral, 15% negative
 - Levain: 51% positive, 42% neutral, 7% negative
 
-c. Sentiment Score Trends
+Sentiment Score Trends
 - Crumbl: Highly fluctuating, tied to viral menu releases
 - Insomnia: Steady sentiment, fewer extremes
 - Levain: Strong upward trajectory with expansion beyond NYC
