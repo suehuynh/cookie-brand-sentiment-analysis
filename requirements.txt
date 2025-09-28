@@ -1,0 +1,19 @@
+# Data handling
+pandas
+numpy
+
+# Scraping & APIs
+requests
+praw
+newsapi-python
+
+# NLP & Sentiment Analysis
+nltk
+textblob
+vaderSentiment
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
