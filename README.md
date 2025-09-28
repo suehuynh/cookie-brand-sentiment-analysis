@@ -52,6 +52,10 @@ Sentiment Score Trends
 - Crumbl: Highly fluctuating, tied to viral menu releases
 - Insomnia: Steady sentiment, fewer extremes
 - Levain: Strong upward trajectory with expansion beyond NYC
+6. Discussion
+- Crumbl is the most talked-about and polarizing brand, thriving on attention but facing pushback on health and flavor variety.
+- Insomnia balances visibility and consistency, appealing to its target demographic with reliability rather than hype.
+- Levain enjoys the most favorable sentiment per review, leveraging product excellence and brand heritage to create an almost cult-like following.
 
 # Limitations
 - Sample size: Limited to scraped data, may not reflect the full population of reviews
